@@ -1,0 +1,53 @@
+name: cp2023
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - ca-certificates
+  - certifi
+  - ld_impl_linux-64
+  - libffi
+  - ncurses
+  - openssl
+  - pip
+  - python
+  - python_abi
+  - readline
+  - setuptools
+  - sqlite
+  - tk
+  - wheel
+  - xz
+  - zlib
+  - bleach
+  - anndata
+  - aiohttp
+  - colorama
+  - commonmark
+  - decorator
+  - entrypoints
+  - future
+  - h5py
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - llvmlite
+  - matplotlib
+  - markdown
+  - nbconvert
+  - networkx
+  - numpy
+  - numba
+  - pandas
+  - pillow
+  - requests
+  - seaborn
+  - tables
+  - tqdm
+  - umap-learn
+  - visualizations
+
+
+

@@ -3,3 +3,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 .DS_Store
+counts.h5ad
+GSE149372_scRNA.normalized.assay85.csv
+multiplex.h5ad
+smartseq.mtx
+tenx.mtx
+metadata.csv
